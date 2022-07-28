@@ -1,0 +1,16 @@
+﻿{
+	"Name": "Verti's Sheds Wall and Floor Decoration Functionality - Version Four Big Shed",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Makes Verti's sheds decoratable.",
+	"UniqueID": "staramy.vertiwallfloorbigshed",
+	"MinimumApiVersion": "3.13.0",
+	"ContentPackFor": {
+    	"UniqueID": "aedenthorn.CustomWallsAndFloors",
+	},
+	"Dependencies": [
+   {
+      "UniqueID": "vertibliss.VertisSheds",
+   }
+]
+}

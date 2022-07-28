@@ -1,0 +1,38 @@
+{
+    "data":
+    [
+        {
+            "name": "Shed",
+            "replaceFloors": true,
+            "replaceWalls": true,
+            "replaceNonDecorationTiles": true,
+            "getFloorsFromFile":"",
+            "getWallsFromFile":"",
+            "floors":
+            [
+                {
+                    "X":1,
+                    "Y":3,
+                    "Width":11,
+                    "Height":15
+                },
+            ],
+            "walls":
+            [
+                {
+                    "X":1,
+                    "Y":1,
+                    "Width":11,
+                    "Height":3
+                }
+            ],
+            "floorsOmit":
+            [
+            ],
+            "wallsOmit":
+            [
+            ]
+        },
+        
+    ]
+}

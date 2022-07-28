@@ -1,0 +1,37 @@
+{
+    "data":
+    [
+         {
+            "name": "Big Shed",
+            "replaceFloors": true,
+            "replaceWalls": true,
+            "replaceNonDecorationTiles": true,
+            "getFloorsFromFile":"",
+            "getWallsFromFile":"",
+            "floors":
+            [
+                {
+                    "X":1,
+                    "Y":3,
+                    "Width":23,
+                    "Height":18
+                }
+            ],
+            "walls":
+            [
+                {
+                    "X":1,
+                    "Y":1,
+                    "Width":23,
+                    "Height":3
+                }
+            ],
+            "floorsOmit":
+            [
+            ],
+            "wallsOmit":
+            [
+            ]
+        }
+    ]
+}
